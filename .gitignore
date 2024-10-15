@@ -1,0 +1,6 @@
+ec2-airflow-key.pem
+dags/__pycache__
+.env
+kaggle.json
+.vscode
+logs/*
