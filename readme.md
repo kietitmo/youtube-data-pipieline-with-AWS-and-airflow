@@ -37,10 +37,14 @@ Before deploying the project, the following prerequisites are necessary:
 ![lambda-trigger-glue-job](./images/lambda-trigger-glue-job.png)
 
 ### glue 
+[youtube-trending-videos-job.py](./glue-script/youtube-trending-videos-job.py) 
+
 ![glue](./images/glue-etl.png)
 
 ### quicksight 
-![glue](./images/quicksight-demo.png)
+[youtube-trending-dat_2024-10-20T04_05_29.pdf](./visualized_report/youtube-trending-dat_2024-10-20T04_05_29.pdf) 
+
+![quicksight](./images/quicksight-demo.png)
 
 
 
