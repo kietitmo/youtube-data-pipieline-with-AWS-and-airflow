@@ -27,6 +27,15 @@ Before deploying the project, the following prerequisites are necessary:
 ### s3 
 ![s3](./images/s3-raw.png)
 
+### lambda 
+[lambda-trigeers-clean-data.py](./lambda-funtions/youtube-trending-function-raw-data-trigger.py) 
+
+![lambda-trigeers-clean-data](./images/lambda-trigeers-clean-data.png) 
+
+[lambda-trigger-glue-job.py](./lambda-funtions/lambda-trigger-glue-job.py) 
+
+![lambda-trigger-glue-job](./images/lambda-trigger-glue-job.png)
+
 ### glue 
 ![glue](./images/glue-etl.png)
 
